@@ -1,0 +1,52 @@
+#+title: Contribution Guidelines
+* Contribution Guidelines for Loom
+
+** Introduction
+   Thank you for your interest in contributing to our projects. This document provides guidelines to ensure a smooth collaboration process.
+
+** Code of Conduct
+   - All contributors are expected to adhere to our Code of Conduct.
+   - Please read [[[Code of Conduct] to understand what behavior will and will not be tolerated.
+
+** How to Contribute
+   Contributions can be made in various forms such as bug reports, feature requests, documentation, and code.
+
+** Reporting Bugs
+   - Before creating bug reports, please check the issue of the respective project as you might find out that you don't need to create one.
+   - Use our bug report template to create a new issue.
+
+** Suggesting Enhancements
+   - Feature requests are welcome. Please use our feature request template to submit your suggestion.
+
+** Pull Requests
+   - Ensure your code adheres to our coding standards.
+   - Write clear and meaningful commit messages.
+   - Include appropriate tests when adding or changing functionality.
+   - Update the relevant documentation.
+
+** Coding Standards
+   - Use [specify coding style guide] for styling your code.
+   - Ensure your code passes all the tests and lint checks.
+
+** Setting Up Your Environment
+   - Provide instructions on setting up the development environment for your project.
+
+** Testing
+   - Describe how to run the test suite.
+   - Explain how to write new tests, if applicable.
+
+** Documentation
+   - Documentation contributions are as important as code contributions.
+   - Guidelines for writing documentation can be found [here].
+
+** Community and Getting Help
+   - Join our community on [platform] for discussions.
+   - For quick questions, use our [chat channel or forum].
+
+** Acknowledgements
+   - Contributions are greatly appreciated and recognized. [Describe how contributors are acknowledged].
+
+** Contact Information
+   - For more information, please contact [Contact Information].
+
+Remember, effective contribution guidelines are essential for a successful collaborative project. They guide contributors to effectively engage with your project, ensuring a respectful and productive environment.
