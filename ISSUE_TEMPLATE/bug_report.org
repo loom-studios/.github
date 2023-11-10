@@ -1,0 +1,43 @@
+#+TITLE: Bug Report Template
+#+AUTHOR: Loom
+
+* Bug Report Template Org wide
+  Thank you for taking the time to report a bug. Please fill in the template below to help us understand and address the issue.
+
+** General Information
+   - Date:
+   - Version of the software:
+   - Operating System and version:
+
+** Describe the Bug
+   Please provide a clear and concise description of what the bug is.
+
+** Steps to Reproduce
+   List the steps you followed which revealed the bug:
+   1.
+   2.
+   3.
+
+** Expected Behavior
+   Describe what you expected to happen when you executed the steps above.
+
+** Actual Behavior
+   Explain what actually happened. Include full error messages if applicable.
+
+** Screenshots
+   If applicable, add screenshots to help explain your problem.
+
+** Additional Context
+   Add any other context about the problem here, such as special configurations, environment variations, etc.
+
+** Log Files
+   If applicable, include excerpts from relevant log files.
+
+* Reporting Guidelines
+  - Ensure the bug has not already been reported.
+  - Provide as much information as possible. Incomplete reports may be closed.
+  - Be respectful and follow the [Code of Conduct](link-to-your-code-of-conduct).
+
+* More Information
+  - For general questions or help, reach out by creating an issue in the respective project repo or create a discussion.
+  - For more information on creating effective bug reports, see our [[../CONTRIBUTING.org][Contributing Guidelines]].
